@@ -6,7 +6,6 @@
     sql: ${id}
 
   - dimension: age
-    type: int
 
   - dimension_group: created
     type: time
