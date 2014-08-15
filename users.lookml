@@ -4,7 +4,6 @@
   - measure: count
     type: count_distinct
     sql: ${id}
-    detail: detail*
 
   - dimension: age
     type: int
