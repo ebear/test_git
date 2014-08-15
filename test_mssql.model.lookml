@@ -1,5 +1,5 @@
 
-- scoping: true       # for backward compatibility
+- scoping: true       # for backward compatibi
 
 - connection: test_mssql
 - include: test_mssql.includes
